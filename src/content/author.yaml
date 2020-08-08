@@ -1,0 +1,16 @@
+- id: The Shujaa
+  avatar: avatars/ghost.png
+  bio: Tech-ing The Cool Way
+  twitter: TryGhost
+  facebook: ghost
+  website: https://Shujaa.com
+  location: San Francisco
+  profile_image: img/apple.jpg
+- id: Off The Hook
+  avatar: avatars/ts.png
+  bio: A little bit off Tech
+  twitter: TryGhost
+  facebook: ghost
+  website: https://ghost.org/
+  location: San Francisco
+  profile_image: img/alex-knight-326705-unsplash.jpg
