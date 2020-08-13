@@ -34,7 +34,7 @@ export const Footer: React.FC = () => {
           )}
 
           <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
-            Casper
+            The Shujaa
           </a>
 
           <a href="/rss.xml">RSS</a>

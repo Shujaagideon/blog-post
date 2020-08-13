@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
-  "description": "Casper for gatsby",
+  "name": "The-Shujaa",
+  "description": "Tech-ing the cool way",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "The-Shujaa",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
