@@ -23,7 +23,7 @@ const PageTemplate = css`
   .site-main {
     margin-top: 64px;
     padding-bottom: 4vw;
-    background: #fff;
+    background:  #fdeeb9;
   }
 
   @media (prefers-color-scheme: dark) {

@@ -97,7 +97,7 @@ const SubscribeOverlay = styled.div<SubscribeOverlayProps>`
       color(var(--blue) lightness(-7%) saturation(-10%)) 90%,
       color(var(--blue) lightness(-4%) saturation(-10%))
     ); */
-    background: linear-gradient(#4fb7f0, #29a0e0 60%, #29a0e0 90%, #36a6e2);
+  background: linear-gradient(#a4df30, #a4d007 60%, #a4d000 90%, #a4d027);
     border-radius: 8px;
 
     -webkit-font-smoothing: subpixel-antialiased;

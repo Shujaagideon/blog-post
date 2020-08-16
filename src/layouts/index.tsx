@@ -285,7 +285,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
             font-style: normal;
             letter-spacing: 0;
             text-rendering: optimizeLegibility;
-            background: #fff;
+            background:  #fdffd9;
 
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
@@ -480,12 +480,12 @@ const IndexLayout: React.FC<IndexProps> = props => {
 
           /* globals from screen.css */
           body {
-            background: #fff;
+            background: #fdffb9;
           }
 
           @media (prefers-color-scheme: dark) {
             body {
-              color: rgba(255, 255, 255, 0.75);
+              color: rgba(255, 255, 255, 0.5);
               background: ${colors.darkmode};
             }
             img {

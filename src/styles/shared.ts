@@ -70,9 +70,9 @@ export const PostFeed = css`
   position: relative;
   display: flex;
   flex-wrap: wrap;
-  margin: 0 -20px;
+  margin: 0 20px;
   padding: 50px 0 0;
-  background: #fff;
+  background:  #fdffd9;
 
   /* Special Template Styles */
   padding: 40px 0 5vw;
@@ -123,7 +123,7 @@ export const SiteHeaderStyles = css`
   position: relative;
   /* margin-top: 64px; */
   padding-bottom: 12px;
-  color: #fff;
+  color:  #fdffb9;
   /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
   background: ${lighten('-0.05', colors.darkgrey)} no-repeat center center;
   background-size: cover;
