@@ -1,3 +1,7 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+
+- id: Simple
+  description: From beginner computer to a guru
+  image: img/writing.jpg
