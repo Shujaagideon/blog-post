@@ -111,7 +111,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                   config.title
                 )}
               </SiteTitle>
-              <SiteDescription>{config.description}</SiteDescription>
+              <SiteDescription>{config.descriptions}</SiteDescription>
             </SiteHeaderContent>
           </div>
         </div>

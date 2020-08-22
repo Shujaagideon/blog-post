@@ -6,7 +6,7 @@ author: [The Shujaa]
 date: 2020-07-10T10:00:00.000Z
 tags:
   - Simple
-excerpt: The Beginning of greatness awaits.
+excerpt: Food for thoughts. Most amazing technological advances, but first lets take a break and see.
 draft: false
 ---
 
@@ -20,7 +20,7 @@ How well do you know what goes on behind the scenes every time you are using the
 > lets seeee
 
 From the next series of blogs we will be looking at various topics
-Well if you are a techy this is going to be extremely fun as we are going to take a deep dive into the various cool technological advances in this fourth industrial revolution. If you are relatively new to tech well there is no better time to dive in and learn you can simply look for the posts with the tag [shallow](/tags/simple) where we are going to transition from the very basic to the extreme advanced topics. I will try to make the transition as seamless as possible holding your hand every step of the way. Any intriguing additions may be sent directly to your e-mail if you subscribe.
+Well if you are a techy this is going to be extremely fun as we are going to take a deep dive into the various cool technological advances in this fourth industrial revolution. If you are relatively new to tech well there is no better time to dive in and learn you can simply look for the posts with the tag [Comp-starter](/tags/Comp-Starter) where we are going to transition from the very basic to the extreme advanced topics. I will try to make the transition as seamless as possible holding your hand every step of the way. Any intriguing additions may be sent directly to your e-mail if you subscribe.
 
 
 

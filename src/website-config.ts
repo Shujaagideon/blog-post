@@ -1,6 +1,7 @@
 export interface WebsiteConfig {
   title: string;
   description: string;
+  descriptions: string;
   coverImage?: string;
   logo: string;
   /**
@@ -49,18 +50,19 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'The Shujaa',
-  description: 'Grand software developer',
+  title: 'Technological Advances',
+  description: 'Shujaa, Kenyan based web app developer and tech blogger. See my blog for general insight on computers and where the technology is at the present',
+  descriptions: 'Software Developer',
   coverImage: 'img/blog-cover.png',
   logo: 'img/The-Shujaa.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://shujaa.netlify.com',
   facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  twitter: 'https://twitter.com/TheShujaa',
   showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
-  mailchimpEmailFieldName: 'MERGE0',
+  mailchimpAction: 'https://app.us17.list-manage.com/subscribe/post?u=a5deaaa93acf2e9af3df7833d&amp;id=258e6e75d9',
+  mailchimpName: 'b_a5deaaa93acf2e9af3df7833d_258e6e75d9',
+  mailchimpEmailFieldName: 'EMAIL mce-EMAIL',
   googleSiteVerification: 'GoogleCode',
   footer: 'Tech-ing The Cool Way',
 };

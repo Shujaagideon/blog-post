@@ -1,7 +1,8 @@
-- id: speeches
-  description: Some of the greatest words ever spoken.
+- id: Weekly-Inventor
+  description: These technologies are mind blowing, taking our daily operations to another level
   image: img/speeches-cover.jpg
 
-- id: Simple
-  description: From beginner computer to a guru
+- id: Comp-Starter
+  description: Ever wondered how computers really work, well these is where you will get all the details needed and more. From the very beginning to more advanced
+   diving into details, history and latest info that will put you on the right foot.
   image: img/writing.jpg
