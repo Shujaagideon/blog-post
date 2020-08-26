@@ -5,12 +5,12 @@ image: img/number1.jpg
 author: [The Shujaa]
 date: 2020-07-10T10:00:00.000Z
 tags:
-  - Simple
+  - Weekly-Inventor
 excerpt: Food for thoughts. Most amazing technological advances, but first lets take a break and see.
 draft: false
 ---
 
-## __The cruel rise of technology__
+## The cruel rise of technology
 
 Though we are overly excited to live in such an era where everything is just a click away, technology may just have more to offer than we know or perhaps think. The common saying that:  _ _"you are only limited by your imaginations"_ _ may very soon be literal rather than its common meaning. The recent past has seen an exponential growth in the level of technological inventions, so rapid the growth has been that the rate of adoption of these technologies is like a grain of sand in a beach. This has brought about speculations and nagging questions of wether these sophisticated pieces of technology may soon overwhelm human kind and bring a catastrophic turn of events. Well the reality is that this has been the case for quite some time now.
 > This is ridiculous I know but one question though,
