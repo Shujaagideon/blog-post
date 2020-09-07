@@ -10,7 +10,7 @@ excerpt: The simplest example that explains how a computer works
 draft: false
 ---
 
-## Who doesn't like Food
+## Simple Example on How Computers work
 
 Just the other day in the restaurant with a good friend the waiter approached and asked what I would like for lunch well am not really good at choosing so I Went with good old noodles with some beef stew and some pepper to taste.
 
